@@ -6,11 +6,5 @@
     "REACT_APP_API_URL": "https://rkbtcconnect-backend.vercel.app",
     "REACT_APP_GOOGLE_MAPS_API_KEY": "AIzaSyBqxc6kyS-LoyaHvVca125NQMefYWI37C4",
     "REACT_APP_BACKEND_URL": "https://rkbtcconnect-backend.vercel.app"
-  },
-  "rewrites": [
-    {
-      "source": "/(.*)",
-      "destination": "/index.html"
-    }
-  ]
+  }
 } 
